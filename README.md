@@ -1,5 +1,6 @@
 # **CipherMailArchiver** 📩🔒  
 _Effiziente & sichere E-Mail-Archivierung mit IMAP & POP3 – Open-Source & lokal speichernd._
+![logo](https://github.com/user-attachments/assets/33990230-ad64-44ab-90c0-e2e328829246)
 
 ---
 
